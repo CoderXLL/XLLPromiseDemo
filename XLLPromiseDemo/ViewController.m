@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+@import FBLPromises;
+
 @interface ViewController ()
 
 @end
